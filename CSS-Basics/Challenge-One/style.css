@@ -1,0 +1,16 @@
+
+
+#wrap {
+    width: 50%;
+    background-color: cyan;
+    margin: 16px auto;
+}
+ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+li::first-letter {
+    font-size: 25px;
+    font-weight: bold;
+}
